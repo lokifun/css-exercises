@@ -1,0 +1,39 @@
+
+
+p {
+
+background-color:rgb(243, 163, 181);
+
+font-family: verdana, "DejaVu Sans", "sans-serif"; 
+
+
+}  
+
+#numbertwo {
+
+color: blue;
+
+font-size: 36px; 
+
+
+
+
+
+} 
+
+
+#numberthree {
+
+    background-color:rgb(243, 163, 181);
+font-family: verdana, "DejaVu Sans", "sans-serif";
+font-size: 36px;
+
+}
+
+#numberfour {
+
+background-color: rgb(132, 236, 132);
+font-size: 24px; 
+font-weight: bold;
+
+}
